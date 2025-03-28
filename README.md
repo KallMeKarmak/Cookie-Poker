@@ -1,7 +1,11 @@
 # Cookie-Poker
 This contains the Balatro Cookie Run modpack!
 
-Cookie Run Kingdom is owned by Devsisters (please dont sue me)
+Devsisters own Cookie Run Kingdom (please don't sue me)
 
 If everything works, just pop this folder into the mods folder!
 Love you!!!!
+
+Credits!
+Art - KallMeKarmak
+Coding - Zebra and A9spect

@@ -1,0 +1,20 @@
+{
+	"id": "chb_mods",
+	"name": "CherryBomb",
+	"author": ["As9ect", "KallMeKarmak", "Zebra"],
+	"description": "Adds the joker 'CherryBomb' to the game.",
+	"prefix": "cherrybomb",
+	"main_file": "main.lua",
+	"priority": -20,
+	"badge_colour": "505050",
+	"badge_text_colour": "F0F0F0",
+	"display_name": "KallMeKarmak, Zebra",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)",
+	],
+	"conflicts": [],
+	"provides": [],
+	"dump_loc": false
+}
